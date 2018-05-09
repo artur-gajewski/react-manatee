@@ -1,4 +1,4 @@
-# React Audio Spring component
+# React Manatee component
 
 A cute ascii manatee for your React app.
 
